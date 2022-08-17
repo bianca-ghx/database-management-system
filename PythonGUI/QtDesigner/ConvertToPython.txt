@@ -1,0 +1,7 @@
+pyuic5 -x MenuWindow.ui -o MenuWindow.py
+pyuic5 -x AddBookWindow.ui -o AddBookWindow.py
+pyuic5 -x DeleteBookWindow.ui -o DeleteBookWindow.py
+pyuic5 -x ViewAllBooksWindow.ui -o ViewAllBooksWindow.py
+pyuic5 -x LendBookWindow.ui -o LendBookWindow.py
+pyuic5 -x ReceiveWindow.ui -o ReceiveWindow.py
+
